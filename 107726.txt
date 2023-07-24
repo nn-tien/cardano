@@ -1,0 +1,390 @@
+[PROPOSAL] ID 107726
+Muziki.xyz - Bringing African community to a music NFT platform [Marketplace and music NFTs platform]
+Answer:
+African music revenue to reach $252.70M (2027), yet artists retain under 10% royalties from centralized streaming platforms. Industry worth $3B, yet return not circulating back into the ecosystem.
+
+
+
+
+[GENERAL] Requested funds in ada
+Answer:
+595000
+
+[GENERAL] Please specify how many months you expect your project to last (from 2-12 months)
+Answer:
+6
+
+[GENERAL] Summarize your solution to the problem (200-character limit including spaces)
+Answer:
+This project’s main goals are to::
+Enable the musician to mint NFTs on the Muziki platform 
+Validate market fit for an NFT launchpad, primarily with African musicians.
+
+Music NFT Minting For Muziki’s launchpad feasibility validation we would establish Muziki’s market fit by the following:
+
+Month 1: Project kick-off and compliance setup. Establish initial marketplace with NMKR
+Month 2: Design and Infrastructure setup
+Month 3: Integration with Mobile Money Payment provider and Initial user acquisition
+Month 4: Integrate Minting and Buying flows
+Month 5: Clarify roadmap &amp; deliver additional features
+Month 6: Define tokenomics and plan the rollout of Muziki's utility token
+
+
+[IMPACT] Please describe your proposed solution.
+Answer:
+Africa's abundant musical heritage and diverse music genres contribute to a vibrant and dynamic music industry. African music has a global appeal, with artists showcasing their talent and cultural expressions to captivate audiences worldwide. The continent continues to be a fertile ground for creativity, innovation, and the exploration of new musical styles and fusions. From Afrobeat to Bongo Flava, Soukous to Kizomba, African music continues to shape and influence the global music landscape, fostering cross-cultural connections and celebrating the continent's musical richness.
+
+Africa’s music industry offers numerous opportunities for growth and success. According to recent market research, the music industry in Africa is worth an estimated $3 billion, and is expected to grow significantly in the coming years. This growth is driven by several factors, including the increasing popularity of African music both within the continent and internationally, as well as the rise of new technologies and innovations that are changing the way music is consumed and distributed.
+
+The global music NFT market size was $1.350Bn in 2021, but African musicians are under-represented in this market. This is due to a number of factors, including limited access to online streaming platforms. Record labels are responsible for discovering, signing, and developing new talent. However, artist development can be costly and risky. Labels invest significant resources in artist promotion, marketing, and production, with no guarantee of commercial success. Finding a balance between taking risks and maintaining profitability is a constant challenge. Artists and songwriters have raised concerns about fair compensation and transparency in royalty payments. There have been debates over the distribution of streaming royalties and the fairness of contractual agreements between labels and artists. This issue has led to discussions about creating more equitable royalty structures and improving transparency in the industry.
+
+According to Statista, Africa’s music streaming revenue is projected to reach a market volume of US$252.70m by 2027, with the number of users expected to amount to 58.5m users. As an example, in Kenya, the music market is expected to generate USD $20m in 2023 in music streaming. 
+
+We aim to disrupt the African music industry by building a music NFT marketplace which will empower artists with ownership and freedom of allocation over their royalties, driving 10x revenue growth through a Web3 model by using Blockchain. Muziki’s platform covers marketplace, distribution, and royalty collection for the artist and their fanbase, promising a highly sustainable and circular economy.
+
+NFTs have also allowed artists to establish a large global network among themselves giving room for friendships, collaborations, and general growth in their areas of expertise. NFTs serve as transparent digital contracts, validating proof of ownership through their uniqueness. 
+With our marketplace approach, we can establish a highly sustainable and circular economy. One of the goals that came about being in the NFT space was to discover “hidden gems” and new artists whose work was eye-catching and impactful such as Jessica Colaço and Fena Gitu and many others that MUZIKI plans to onboard after we are live. We plan to help our musicians engage with their fanbase.
+
+Muziki brings the NFT revolution to the music industry, enabling artists to sell music IP rights via secure blockchain technology. NFTs gain value as artists thrive, creating incentives for marketing and income generation. The platform covers marketplace, distribution, and royalty collection for the artist and their fanbase.
+
+
+
+
+Muziki’s platform is built on several core components:
+
+Identity Management: We intend to do eKYC for all musicians on-boarding the platform. We may also consider looking at decentralized identity solutions to address the digital divide in Africa
+Own Your Music: The foundation of Muziki’s platform, the decentralized ledger securely stores token ownership and transaction data, ensuring the immutability and transparency of all records.
+Sell and Trade NFTs: The platform employs smart contracts to automate various aspects of the NFTs. By utilizing Cardano's robust infrastructure and smart contract capabilities, the platform will ensure secure transactions, verifiable ownership of NFTs, and transparent royalty distributions. This integration will contribute to the expansion of real-world use cases for Cardano.
+Decentralized Wallets: There are over 700m Mobile Money wallets in Africa; as one of the most popular forms of payment in the continent. We will integrate the ability for payments via Mobile Money (MoMo) in addition to ADA. Once the royalties are calculated, the smart contracts can initiate automated payouts directly to the artists' designated digital wallets on CARDANO or MoMo. This process bypasses the need for intermediaries like record labels and enables faster and more efficient distribution. 
+Collect Royalties: We plan to develop a dedicated royalty management system that interfaces with the blockchain using CARDANO. This system should enable artists to register their work, track usage, and specify royalty terms such as percentages, and payment thresholds.
+Tokenisation: Holders of MZK utility tokens can use them to access or utilize specific functions, services, or content within the platform. For example, utility tokens can be used to pay for transaction fees, access premium artists’ content, purchase artists’ merchandise, or participate in platform-specific activities such as live streams of artists on the platform.
+
+
+Marketplace
+
+The Muziki marketplace serves as a central nexus point for artists to create music NFTs. It offers a user-friendly interface and allows an artist to create a profile, connect to a wallet(s), upload their music track, add features of the track, price the track, mint it and list their NFT. This workflow provides the artists with full ownership to the process while ensuring they are able to make enlightened decisions and maximize their returns while ensuring a secure and traceable process using blockchain technology.
+
+We are building for both the artist and their fans, the Muziki marketplace provide alternative revenue channels for artists, fostering financial growth and allowing fans to benefit from the artist's growing content. This contributed to the overall economic growth in the music industry in Africa.
+
+Royalties and Payments
+
+There are over 700m Mobile Money wallets in Africa; as one of the most popular forms of payment in the continent. We will integrate the ability for payments via Mobile Money (MoMo) in addition to ADA. Once the royalties are calculated, the smart contracts can initiate automated payouts directly to the artists' designated digital wallets on CARDANO or MoMo. This process bypasses the need for intermediaries like record labels and enables faster and more efficient distribution.
+
+
+[IMPACT] How does your proposed solution address the challenge and what benefits will this bring to the Cardano ecosystem?
+Answer:
+The ₳ 595,000 ($184,363.54) budget for our Muziki project is based on a standard man-hour rate, in line with industry standards for developers, architects and PMs in the sector. This cost includes project management, architecture, UI/UX design, feature development, testing, and platform launch, all performed by our highly experienced team.
+
+Secondly, by integrating with Cardano's native cryptocurrency ADA, the marketplace facilitates seamless and efficient payments, fostering adoption and use of ADA within the music industry.
+
+Thirdly, we are also keen to plug in the other products that have been developed by by IOG specifically Atala Prism for SSI DIDs as well as LACE for the wallets which will mean that the LACE wallet will grow significantly with African fans all having a LACE wallet. Ultimately we may also want to plug into the side chains toolkit once we get more insights as ultimately we do want to link into all chains. We will for sure plug into Plutus for Smart contracts tech. 
+Finally we may also want to look at RealFi especially for the Musicians who may require cash funding to create new music. This is more something for our future roadmap.
+
+Each dollar spent on Muziki is an investment in the Cardano ecosystem, aiming to strengthen it by enabling musicians in Africa to upload and mint their music and attract new fans and showcasing Cardano's utility. Thus, we believe the project represents excellent value for money.
+
+
+[IMPACT] How do you intend to measure the success of your project?
+Answer:
+We will determine our project's success through a blend of quantitative and qualitative key performance indicators, such as user acquisition, transaction volume, short-term and long-term impacts on Cardano.
+
+Quantitative KPIs:
+User Adoption: We aim to attract at least 500 musicians and 0.5M fans within the first operational year, creating a vibrant ecosystem within Muziki. 
+Transaction Volume: We aspire to stimulate a transaction volume somewhere between $0.25m - $0.5m during our inaugural year. This target is attainable given that we need to create a huge awareness of the NFT marketplace as well as educate musicians to consider NFTs as the way forward. We intend to adopt the marketing strategy below.
+
+
+
+Qualitative KPIs:
+Short-term Impact: By facilitating a high transaction volume, Muziki will corroborate the utility of Cardano in real-world business applications, enhancing its applicability and relevance.
+Long-term Impact: Muziki’s success could act as a magnet for additional NFT ventures to leverage Cardano's robust capabilities. By introducing lots of musicians and fans, Muziki will not only expand the community but also invigorate it, contributing to Cardano's growth and fortifying its reputation in the NFT space.
+
+
+[IMPACT] Please describe your plans to share the outputs and results of your project?
+Answer:
+Outputs will be shared and results as follows:
+
+Bi-weekly through Twitterspace live sessions
+Social media posts per month (Twitter and Blog)
+Reports at the completion of each milestone.
+
+[CAPABILITY/ FEASIBILITY] What is your capability to deliver your project with high levels of trust and accountability?
+Answer:
+We already have been working on a MVP in advance of putting this venture into the F10. Our team brings a unique blend of industry experience and technical acumen as we have a proven track record and credibility in the African tech space. One of our team is also ex IOG having worked there for 2.5 years and has significant experience in the CARDANO Blockchain space. 
+
+We have strong financial management skills, underscored by experience with previous startups. We've managed budgets effectively, ensuring optimal use of resources.
+
+As some of the technical capabilities will be pulled from a partnering software house Haskell.Team, we bring the delivery capacity that worked for regulated financial markets institutions.
+
+We ensure proper management of funds through:
+
+Corporate Governance: We will have a proper Corporate Governance arrangement in place with all the team involved in this venture.
+Detailed Budgeting: We allocate funds comprehensively to cover all project expenses.
+Financial Controls with Multi-Sig Wallets: We ensure strict oversight and security by using multi-signature wallets and implementing approval processes for fund transfers.
+Regular Reporting: We provide transparent financial reports to keep stakeholders informed about project finances.
+Open Auditing: Our financial processes are auditable by the shareholders and management and external stakeholders, promoting accountability and independent verification.
+
+
+[CAPABILITY/ FEASIBILITY] What are the main goals for the project and how will you validate if your approach is feasible?
+Answer:
+This project’s main goals are to::
+Enable the musician to mint NFTs on the Muziki platform 
+Validate market fit for an NFT launchpad, primarily with African musicians.
+
+Music NFT Minting For Muziki’s launchpad feasibility validation we would establish Muziki’s market fit by the following:
+
+Month 1: Project kick-off and compliance setup. Establish initial marketplace with NMKR
+Month 2: Design and Infrastructure setup
+Month 3: Integration with Mobile Money Payment provider and Initial user acquisition
+Month 4: Integrate Minting and Buying flows
+Month 5: Clarify roadmap &amp; deliver additional features
+Month 6: Define tokenomics and plan the rollout of Muziki's utility token
+
+
+[CAPABILITY/ FEASIBILITY] Please provide a detailed breakdown of your project’s milestones and each of the main tasks or activities to reach the milestone plus the expected timeline for the delivery.
+Answer:
+Project Kick-Off and Compliance Setup
+Tasks: 
+Assemble the team and create RACI matrix
+Define and prioritize initial requirements
+Establish initial marketplace with NMKR
+Architecture, Design and Infrastructure setup
+Admin and Compliance setup
+Timeline: 1st month
+Work Estimation: 30 MD
+Budget: ₳ 70,000
+Establish initial marketplace with NMKR
+Tasks:
+Establish initial marketplace using NMKR wizard
+Customize and connect with Muziki platform
+Timeline: 1st month
+Work Estimation: 10 MD
+Budget: ₳ 15,000
+Architecture, Design and Infrastructure setup
+Tasks: 
+Define scalable and sustainable architecture, logging and monitoring tooling
+Timeline: 2nd month
+Work Estimation: 40 MD
+Budget: ₳ 60,000
+Integration with Mobile Money Payment provider
+Tasks: 
+Define technical integration requirements
+Secure regulatory compliance and necessary documentation
+Integrate
+Timeline: 3rd-4th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+Initial user acquisition
+Tasks:
+Execute Social media campaigns
+Emulate Muziki.xyz community
+Gather initial qualitative and quantitative feedback
+Timeline: 4th month
+Work Estimation: 30 MD
+Budget: ₳ 45,000
+Integrate Minting and Buying flows
+Tasks:
+Design User Flows for unified platform
+Define NMKR API to reflect functional operations
+Integrate both flows into one Muziki.xyz platform with consistent User Experience
+Timeline: 4th-5th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+Clarify roadmap &amp; deliver additional features
+Tasks:
+Conduct quality and quantity analysis of user feedback
+Define and prioritize improvements and new features
+Build out a roadmap for next phase of platform growth
+Implement top priority item(s)
+Timeline: 5th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+Define tokenomics and plan the rollout of Muziki's utility token
+Tasks: 
+Extract business model into the tokenomic model
+Document the tokenomic model
+Design underlying technical capabilities (design smart contracts)
+Timeline: 6th month
+Work Estimation: 60 MD
+Budget: ₳ 90,000
+
+
+[CAPABILITY/ FEASIBILITY] Please describe the deliverables, outputs and intended outcomes of each milestone.
+Answer:
+Project Kick-Off
+Outputs: 
+The team aligned and RACI matrix created
+Define and prioritized initial requirements
+2. Establish initial marketplace with NMKR
+Outputs::
+Initial marketplace established
+Integration within Muziki platform
+3. Architecture, Design and Infrastructure setup
+Outputs:
+Documented Architecture, Design and Infrastructure
+Defined and aligned delivery process
+4. Integration with Mobile Money Payment provider
+Outputs:
+Mobile Money (MoMo) payment available
+5. Initial user acquisition
+Outputs:
+Initial group of users bought NFTs from the platform
+User feedback gathered
+6. Integrate Minting and Buying flows
+Outputs:
+Creating the music NFTs and browsing &amp; buying available on a single platform with a consistent Look&amp;Feel
+7. Clarify roadmap &amp; deliver additional features
+Outputs:
+Quality and quantity analysis of user feedback done and documented
+Defined and prioritize improvements and new features
+Documented roadmap for next phase of platform growth
+Top priority improvements implemented
+8. Define tokenomics and plan the rollout of Muziki's utility token
+Outputs:
+Document describing business model of the platform with the tokenomics fueling its growth
+Definition of technology aspects (ie. smart contracts) required to fulfill the design
+
+[RESOURCES & VALUE FOR MONEY] Please provide a detailed budget breakdown of the proposed work and resources.
+Answer:
+Project Kick-Off
+Resources: 
+Roles: Executive team, Technical team
+Infrastructure
+Compliance and legal framework design
+Timeline: 1st month
+Work Estimation: 30 MD
+Budget: ₳ 70,000
+2. Establish initial marketplace with NMKR
+Resources:
+Roles: technical team
+Utilization of NMKR platform
+Timeline: 1st month
+Work Estimation: 10 MD
+Budget: ₳ 15,000
+3. Architecture, Design and Infrastructure setup
+Resources: 
+Roles: Architect, Full stack developer, front end developer, Designer
+Infrastructure
+Timeline: 2nd month
+Work Estimation: 40 MD
+Budget: ₳ 60,000
+4. Integration with Mobile Money Payment provider
+Resources: 
+Roles: Architect, Full stack developer, front end developer,
+Utilization cost for mobile money platform
+Timeline: 3rd-4th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+5. Initial user acquisition
+Resources::
+Roles: Marketing team
+Marketing and community tools
+Timeline: 4rd month
+Work Estimation: 30 MD
+Budget: ₳ 45,000
+6. Integrate Minting and Buying flows
+Resources:
+Roles: Designer, Architect, Full stack developer, front end developer
+Utilization cost for NMKR
+Utilization cost for Utilization cost for mobile money platform
+Timeline: 4th-5th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+7. Clarify roadmap &amp; deliver additional features
+Resource::
+Roles: Executive team, Technical team
+Web analytics and design tools
+Timeline: 5th month
+Work Estimation: 70 MD
+Budget: ₳ 105,000
+8. Define tokenomics and plan the rollout of Muziki's utility token
+Resources: 
+Roles: executive team, Tokenomics advisors
+Tokenomics modeling tools
+Timeline: 6th month
+Work Estimation: 60 MD
+Budget: ₳ 90,000
+
+
+[RESOURCES & VALUE FOR MONEY] Who is in the project team and what are their roles?
+Answer:
+Name: Jessica Colaco
+
+LinkedIn Link: ://ke.linkedin.com/in/jessicacolaco 
+Email: jc@muziki.xyz
+BIO: Jessica Colaco, is a multi-talented individual with a diverse background in the tech and music industries. At the intersection of tech and music, Jessica, former co-founder of iHub &amp; Brave and CEO of Muziki. She launched her music EP Metamorphosis and 2 Music NFTs making her the first female in tech and music in East Africa and Kenya to do this in 2022. She continues to challenge the status quo and build solutions, this time round in the music industry.
+Role: Co-Founder, CEO.
+Responsibilities: Setting the company's vision, mission, and strategic direction. Developing and implementing business strategies to achieve organizational goals. Making key decisions regarding company operations, finances, and investments.
+
+
+Name: Mona Abebe
+
+LinkedIn Link: ://ke.linkedin.com/in/mona-abebe-758bb4179 
+Email: ma@muziki.xyz
+BIO: Mona Abebe is a budding entrepreneur with a history of working in the Fintech industry from a high school initiative/startup, digital marketing strategist, operations and management apprentice, and artist relations manager. As a creative, both sonically and visually, Mona is keen on spearheading opportunities that catalyze economic growth for the creative sector in Kenya and Africa
+Role: Co-Founder, COO
+Responsibilities: Overseeing day-to-day operations to ensure smooth and efficient functioning of the organization. Monitoring key performance indicators (KPIs) and metrics to assess operational performance.
+
+
+Name: Bartłomiej Kącicki
+
+LinkedIn Link: ://pl.linkedin.com/in/bkacicki 
+Email: bk@muziki.xyz
+BIO: Former Consultant in Professional Services Group of IOG.
+Founder and CEO of Haskell.Team - specialized software house working with functional languages and blockchain / DLT technologies - ://haskell.team 
+Background in delivery of IT solutions in traditional Financial Markets, including HSBC, Barclays Capital, Custodigit (SIX Group).
+Role: Co-Founder, CTO
+Responsibilities: Technology Strategy: Developing and executing the company's technology strategy in line with business objectives.
+
+Name: Joe Reiben
+
+LinkedIn Link: ://www.linkedin.com/in/joseph-reiben-4b380a7 
+Email: jr@muziki.xyz
+BIO: CEO of Mandala Exchange
+Regulatory, Business and Tax attorney (US)
+Specialist in civil litigation, bankruptcy, tax and business law
+Undergraduate degree from Bucknell University in Lewisburg, Pennsylvania, where he received his BA in multiple business disciplines, his JD from Case Western University in Cleveland, Ohio,
+Music education and performance degrees from the University of Colorado, Boulder.
+Role: Advisor
+Responsibilities: Legal and compliance advice
+
+
+Name: Ryan Jatelo
+
+LinkedIn Link: ://ke.linkedin.com/in/ryan-jatelo-b84868196 
+Email: rj@muziki.xyz
+BIO: Hello, I’m Ryan Jatelo and I’m passionate about all things design. I love creating amazing experiences for the technology that solves our everyday challenges.
+Role: Graphic designer
+Responsibilities: Creating visual concepts and designs
+
+
+Name: Gitau Gakwa
+
+LinkedIn Link: ://linkedin.com/in/gitaugakwa 
+Email: gg@muziki.xyz
+BIO: Gitau Gakwa is a student studying Computer Science to pursue his passion for data science, cloud architecture, and full stack development. Intrigued by the world of data, Gitau is often immersed in coding projects. His goal is to make a meaningful impact in the tech industry, starting with the Muziki team
+Role: Full stack developer
+Responsibilities: Backend development and API integrations
+
+Name: Kevin Onyancha
+
+LinkedIn Link: ://ke.linkedin.com/in/kevinonyancha 
+Email: ko@muziki.xyz
+BIO: Kevin Onyancha is a 4th-year Computer Science student
+specializing in frontend development. In addition to a couple of years’ experience as a front-end developer and expertise in data analysis, Kevin merges his technical skills with analytical insights for innovative and impactful software solutions. Stemming from his passion on cybersecurity, Kevin aims to explore ways to enhance digital security in the African tech ecosystem.
+Role: Front-end developer
+Responsibilities: Creating and implementing user interfaces and user experiences
+
+
+
+
+[RESOURCES & VALUE FOR MONEY] How does the cost of the project represent value for money for the Cardano ecosystem?
+Answer:
+The budget allocated for our Muziki.xyz NFT Launchpad project amounts The ₳ 540,000 ($155,000) and is determined based on the prevailing standard rates for man-hours in the industry. This budget encompasses various essential aspects of the project, including project management, architecture, UI/UX design, feature development, testing, and platform launch. Our highly skilled team is responsible for executing these tasks, leveraging their extensive experience in the field.
+
+Investing in Muziki.xyz translates into investing in the growth of the Cardano ecosystem. Our primary objectives are to empower artists and the Music industry in developing ways to gain access to funding, attract new users to the platform, and showcase the practicality of Cardano. Therefore, we firmly believe that the project offers exceptional value for the resources invested.
+
+Here is a breakdown of the cost justification:
+
+Project Management, Architecture &amp; UI/UX Design: Our proficient team ensures optimal utilization of resources, resulting in a user-friendly and efficient platform.
+Core Features Development: The development of secure and efficient systems on Cardano necessitates the expertise of skilled blockchain engineers, which justifies the associated cost.
+Testing and Quality Assurance (QA): Thorough testing is imperative to deliver a high-quality platform devoid of bugs or issues, warranting its inclusion in the budget.
+Platform Launch and User Feedback: The marketing and support team will spearhead an effective platform launch and gather valuable user feedback, contributing to the continuous improvement of the project.
